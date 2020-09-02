@@ -3,7 +3,7 @@ import "./MovieCard.scss";
 
 const MovieCard = () => {
   return (
-    <div className="movie-item">
+    <div className="movie-card">
       <img
         src="https://image.tmdb.org/t/p/w200/cxKeSarIhy2QmjwObAcJ0wlduJT.jpg"
         alt="Acting on Impulse"
