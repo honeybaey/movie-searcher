@@ -8,3 +8,9 @@
   font-family: "Montserrat", "Arial";
   text-align: center; // временно
 }
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
