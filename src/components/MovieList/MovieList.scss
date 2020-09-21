@@ -1,0 +1,15 @@
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @media (max-width: 414px) {
+    justify-content: center;
+  }
+  @media (min-width: 413px) and (max-width: 414px) {
+    flex-direction: column;
+  }
+  @media (min-width: 767px) and (max-width: 768px) {
+    justify-content: space-evenly;
+  }
+}
