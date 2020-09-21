@@ -3,4 +3,9 @@
   font-family: "Montserrat", "Arial";
   text-align: center;
   margin-top: 30px;
+
+  @media (max-width: 375px) {
+    max-width: 360px;
+    margin: 30px auto 0;
+  }
 }
