@@ -29,7 +29,7 @@ export default class Search extends Component {
       <form className="search-form" onSubmit={this.onSubmit}>
         <input
           type="text"
-          className="search-input"
+          className="search-form__input"
           placeholder="Введите фамилию"
           onChange={this.onEnterName}
           value={this.state.query}
