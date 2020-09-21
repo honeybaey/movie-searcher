@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie-searcher/static/css/main.fdaa84b2.chunk.css",
+    "main.js": "/movie-searcher/static/js/main.0fb16529.chunk.js",
+    "main.js.map": "/movie-searcher/static/js/main.0fb16529.chunk.js.map",
+    "runtime-main.js": "/movie-searcher/static/js/runtime-main.fc9780ba.js",
+    "runtime-main.js.map": "/movie-searcher/static/js/runtime-main.fc9780ba.js.map",
+    "static/js/2.e5cb2d85.chunk.js": "/movie-searcher/static/js/2.e5cb2d85.chunk.js",
+    "static/js/2.e5cb2d85.chunk.js.map": "/movie-searcher/static/js/2.e5cb2d85.chunk.js.map",
+    "index.html": "/movie-searcher/index.html",
+    "precache-manifest.f1c360c6a2c75793fdb54c852451980e.js": "/movie-searcher/precache-manifest.f1c360c6a2c75793fdb54c852451980e.js",
+    "service-worker.js": "/movie-searcher/service-worker.js",
+    "static/css/main.fdaa84b2.chunk.css.map": "/movie-searcher/static/css/main.fdaa84b2.chunk.css.map",
+    "static/js/2.e5cb2d85.chunk.js.LICENSE.txt": "/movie-searcher/static/js/2.e5cb2d85.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/movie-searcher/static/media/Montserrat-Regular.ffb135af.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9780ba.js",
+    "static/js/2.e5cb2d85.chunk.js",
+    "static/css/main.fdaa84b2.chunk.css",
+    "static/js/main.0fb16529.chunk.js"
+  ]
+}
