@@ -1,16 +1,4 @@
 .container {
   max-width: 900px;
-  margin: 80px auto 0px auto;
-}
-
-.about {
-  color: #cccccc;
-  font-family: "Montserrat", "Arial";
-  text-align: center; // временно
-}
-
-.movie-list {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  margin: 80px auto 30px auto;
 }
